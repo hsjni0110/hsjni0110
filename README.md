@@ -11,5 +11,5 @@
   <br>
   <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white">
    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nest&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
 </div>
