@@ -16,4 +16,14 @@
 </div>
 
 <hr />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansukjinid)](https://solved.ac/hansukjinid/)
+
+<div align="center">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hansukjinid"/>
+</div>
+
+<hr />
+
+<h3 align=center>📝 Contact </h3>
+<div align=center>
+  <a href="https://velog.io/@hsjni0110"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&"></a> <a href="https://devrepo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a> <a href="https://medium.com/@hansukjinid"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"></a>
+</div>
