@@ -2,7 +2,7 @@
 
 ## 🌱 Intoduction
 
-안녕하세요! 복잡함 대신 간결함을 좋아하고, 설명하는 것을 좋아하는 개발자입니다.
+안녕하세요! 복잡함 대신 간결함을 좋아하고, 설명하는 것을 좋아하는 개발자 한석진입니다.
 
 ## 🚩 Educations & Projects
 
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
