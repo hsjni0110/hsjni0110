@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=5B85AA&section=header&text=Seokjin.Han&fontSize=30&animation=fadeIn&height=150&fontColor=233443&rotate=10&fontAlign=80&fontAlignY=30)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hsjni0110?pet-id=653213836524111590"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ## 🌱 Intoduction
 
 😄 Hello! I'm Seokjin Han, a developer who prefers simplicity over complexity and enjoys explaining things.
