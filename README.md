@@ -30,7 +30,7 @@
 
 - Chungnam National University, School of Computer Convergence (02.2020 - Present)
 - LIKELION 12th Generation, Chungnam National University (02.2024 - Present)
-- Development of "Smart Newbie," a university student job-matching application (06.2024 - Present)
+- Development of "Smart Newbie," a university student job-matching application (06.2024 - 12.2024)
 - Backend Development for "Filb," an AI Emotion Recognition Diary Platform (06.2024 - 07.2024)
 - Backend Development for an AI Interview Platform (06.2023 - 08.2023)
 - 2023 Silicon Valley Summer Software Bootcamp (06.2023 - 08.2023)
