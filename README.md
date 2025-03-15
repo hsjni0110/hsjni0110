@@ -29,6 +29,8 @@
 ## 🚩 Educations & Projects
 
 - Chungnam National University, School of Computer Convergence (02.2020 - Present)
+- LIKELION 13th Generation Backend Management Team, Chungnam National University (01.2025 ~ Present)
+- 2025 Winter U.S. Qualcomm Research Institute Artificial Intelligence Development Project (01.2025 - 02.2025)
 - LIKELION 12th Generation, Chungnam National University (02.2024 - Present)
 - Development of "Smart Newbie," a university student job-matching application (06.2024 - 12.2024)
 - Backend Development for "Filb," an AI Emotion Recognition Diary Platform (06.2024 - 07.2024)
